@@ -32,4 +32,4 @@ Vous allez travailler ensemble en petits groupes, et découvrir l’écran noir 
 
 Thomas: Il s'agissait de la seule option compatible avec mon emploi du temps.
 
-Manira: 
+Manira: Car je veux faire un master en commerce electronique
