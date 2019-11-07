@@ -23,7 +23,7 @@ Vous allez travailler ensemble en petits groupes, et découvrir l’écran noir 
 
     syllabus.md
 
-## Contribution à ce cour:
+## Contribution à ce cours:
 -Pour le cour: Felix Gaudé
 
 -Pour le projet: Manira Bétéré et Thomas Bote
