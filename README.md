@@ -1,4 +1,4 @@
-#  description du cour:
+#  description du cours:
 
 
 Avec The Hacking Project, devenez un boucanier et découvrez les bases de l’informatique pour lancer votre site Internet !
